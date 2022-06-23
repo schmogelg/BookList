@@ -38,9 +38,8 @@ The main functionality of the system consists of managing reading lists, where t
 
 ### Login and registration screens:
 
-![image](https://user-images.githubusercontent.com/80601208/175124513-5d4d7890-1d5c-4f9f-b925-b6e3cd568105.png)
+![login](https://user-images.githubusercontent.com/80601208/175181323-3a921f4e-6324-41f7-baa8-761ffd3793ec.gif)
 
-![image](https://user-images.githubusercontent.com/80601208/175124678-8d6a2ac9-e1cc-4f22-9491-4002bfc2c8b8.png)
 
 ### Discover
 On this screen, it's possible to search through the thousands of books available in the Google Books API, and there are some search filtering options. For each book found, some basic information is provided, as well as its description and the cover of the edition, if any.  On this screen, it's also possible to add a searched book to any of the user's lists.
